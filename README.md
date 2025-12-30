@@ -20,7 +20,7 @@ The simulation was utilized to determine optimal track banking angles to minimiz
 ## Results
 Based on the simulation model, an optimization study was conducted for a quarter-circle turn (Radius = 300m).
 - **Findings:** A banking angle of 0.33 mrad was identified as the theoretical optimum.
-- **Impact:** This specific angle reduced the flange contact time by **12 seconds** compared to a flat track, significantly improving stability.
+- **Impact:** This specific angle reduced the flange contact time by 12 seconds compared to a flat track, significantly improving stability.
 
 ## Technologies Used
 - **Language:** Python 3
@@ -46,5 +46,5 @@ The simulation is based on Newton's Second Law applied to the lateral ($z$) and 
     ```
 3.  Run the simulation:
     ```bash
-    python main.py
+    python train_simulation.py
     ```
