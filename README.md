@@ -5,7 +5,7 @@
 **Disclaimer:** This project was created for a university assessment at TU Delft. The code is published here for educational and portfolio purposes. If you are a student, do not copy this code for any assignments. 
 
 ## Overview
-This project is a numerical simulation of the hunting motion of train bogies, wchih is a dynamic instability that can lead to derailment. 
+This project is a numerical simulation of the hunting motion of train bogies, which is a dynamic instability that can lead to derailment. 
 
 Trains rely on conical wheels to self-center on tracks. While this mechanism allows trains to navigate turns, it introduces lateral oscillations (hunting). This Python project simulates a train consisting of $n$ connected bogies using a system of coupled differential equations to model their stability on user-defined track geometries. 
 
